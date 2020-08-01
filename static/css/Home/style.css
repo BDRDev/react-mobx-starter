@@ -1,0 +1,23 @@
+#home-page-wrapper {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-text {
+  color: white;
+  margin-bottom: 12px;
+}
+
+.clicks-wrapper {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
